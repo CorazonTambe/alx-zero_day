@@ -1,1 +1,1 @@
-All about Git
+All about Git.
